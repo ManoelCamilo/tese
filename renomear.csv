@@ -1,0 +1,5 @@
+url,nome_banco_dados,descricao
+https://dadosabertos.camara.leg.br/arquivos/deputados/xlsx/deputados.xlsx,TB_DEPU, Tabela de DEPUTADOS
+https://dadosabertos.camara.leg.br/arquivos/votacoes/xlsx/votacoes-2022.xlsx,TB_VOTC,Tabela de VOTAÇÕES
+https://dadosabertos.camara.leg.br/arquivos/votacoesVotos/xlsx/votacoesVotos-2022.xlsx,TB_VOTO, Tabela dos VOTOS
+https://github.com/ManoelCamilo/tese/raw/main/TB_PART.xlsx,TB_PART,Tabela dos PARTIDOS
